@@ -1,8 +1,4 @@
-const filmes = [{
-        titulo: "Mortal Kombat",
-        imagem: "https://image.tmdb.org/t/p/w500/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
-        descricao: "Um torneio de artes marciais entre os melhores lutadores do mundo."
-    },
+const filmes = [
     {
         titulo: "Batman",
         imagem: "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
@@ -17,6 +13,26 @@ const filmes = [{
         titulo: "Homem-Aranha: sem Volta para Casa",
         imagem: "https://image.tmdb.org/t/p/w500/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
         descricao: "Peter Parker enfrenta as consequências de sua identidade secreta ser revelada."
+    },
+    {
+        titulo: "Super Mario Galaxy: O Filme",
+        imagem: "https://media.themoviedb.org/t/p/w220_and_h330_face/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg",
+        descricao: "Mario embarca em uma aventura espacial para resgatar a Princesa Peach."
+    },
+    {
+        titulo: "Todo Mundo em Pânico",
+        imagem: "https://media.themoviedb.org/t/p/w220_and_h330_face/daorfyZdHkI44vuf3DVDbmJkYQI.jpg",
+        descricao: "Uma paródia dos filmes de terror clássicos, onde um grupo de amigos enfrenta situações hilárias e assustadoras."
+    },
+    {
+        titulo: "1000 Homens e Eu: A História de Bonnie Blue",
+        imagem: "https://media.themoviedb.org/t/p/w220_and_h330_face/5dcgoyf8nt6Xt4VSR6Nrn6nwhuz.jpg",
+        descricao: "A história de Bonnie Blue, uma jovem que se torna uma lenda do crime em um mundo dominado por homens."
+    },
+    {
+        titulo: "porn",
+        imagem: "https://media.themoviedb.org/t/p/w220_and_h330_face/rbzySQcXmTvWOaaJAsFDlCjW8eG.jpg",
+        descricao: "Um filme que explora a indústria do entretenimento adulto, revelando os bastidores e as histórias por trás das câmeras."
     }
 ]
 

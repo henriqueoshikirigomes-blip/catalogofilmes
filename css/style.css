@@ -15,3 +15,20 @@ body {
     height: 400px;
     object-fit: cover;
 }
+
+.container {
+    justify-content: space-between;
+}
+.container a {
+    color: black;
+    text-decoration: orange;
+    font-size: 18px;
+    font-weight: bold;
+}
+button {
+    background-color: orange;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
