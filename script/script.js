@@ -56,11 +56,14 @@ function mostrarFilmes(lista) {
     })
 }
 
-mostrarFilmes(filmes)
-function verDetalhes(titulo) {
-    Swal.fire({
-        title: titulo,
-        text: "Mais detalhes sobre o filme ",
-        icon: "info",
-    })
+mostrarFilmes(filmes) 
+function verDetalhes(titulo) 
+{ Swal.fire
+    ({  
+    title: titulo, 
+    text: "Mais detalhes sobre o filme ", 
+    icon: "info", 
+}) 
 }
+mostrardetalhes(verDetalhes,titulo)
+
