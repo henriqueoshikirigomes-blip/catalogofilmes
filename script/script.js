@@ -29,11 +29,6 @@ const filmes = [
         imagem: "https://media.themoviedb.org/t/p/w220_and_h330_face/5dcgoyf8nt6Xt4VSR6Nrn6nwhuz.jpg",
         descricao: "A história de Bonnie Blue, uma jovem que se torna uma lenda do crime em um mundo dominado por homens."
     },
-    {
-        titulo: "porn",
-        imagem: "https://media.themoviedb.org/t/p/w220_and_h330_face/rbzySQcXmTvWOaaJAsFDlCjW8eG.jpg",
-        descricao: "Um filme que explora a indústria do entretenimento adulto, revelando os bastidores e as histórias por trás das câmeras."
-    }
 ]
 
 const listaFilmes = document.getElementById("listaFilmes");
