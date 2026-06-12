@@ -28,7 +28,7 @@ const filmes = [
         titulo: "1000 Homens e Eu: A História de Bonnie Blue",
         imagem: "https://media.themoviedb.org/t/p/w220_and_h330_face/5dcgoyf8nt6Xt4VSR6Nrn6nwhuz.jpg",
         descricao: "A história de Bonnie Blue, uma jovem que se torna uma lenda do crime em um mundo dominado por homens."
-    },
+    }
 ]
 
 const listaFilmes = document.getElementById("listaFilmes");
